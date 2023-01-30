@@ -113,9 +113,4 @@
 #     print(digital)
 # cbcvb
 
-y = 2**2-4
-if y == False:
-    print('Hallo')
-else:
-    print(y)
 
