@@ -38,3 +38,13 @@ def merge_sort(numm):    # сортировка слиянием
             numm[k] = right[j]
             j += 1
             k += 1
+x = 0
+y = 0
+def init(a, b):
+    global x
+    global y
+    x = a
+    y = b
+
+def sum():
+    return x + y
